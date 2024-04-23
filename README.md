@@ -1,3 +1,3 @@
 # Tic tac toe
 
-Simple program
+Simple program, simple solution
